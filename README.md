@@ -1,2 +1,2 @@
 # Sql
-sql
+exploratory data analyts
